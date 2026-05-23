@@ -430,7 +430,7 @@ Dataset usage is governed by:
 
 ## Authors
 
-3DSA-5 — DSA4158 Course Project
+3DSA-6 — DSA4158 Course Project
 
 Final Project for Big Data / Machine Learning Research
 
@@ -446,15 +446,3 @@ Special thanks to:
 - Research works referenced throughout the manuscript
 
 ---
-
-## Related Manuscript Chapters
-
-This repository accompanies the manuscript chapters:
-
-- Chapter 1 — Introduction :contentReference[oaicite:0]{index=0}
-- Chapter 2 — Review of Related Literature and Studies :contentReference[oaicite:1]{index=1}
-- Chapter 3 — Research Design and Methodology :contentReference[oaicite:2]{index=2}
-
-The implementation notebook is based on the computational framework described in:
-
-- Asia Urban Accessibility Notebook :contentReference[oaicite:3]{index=3}
